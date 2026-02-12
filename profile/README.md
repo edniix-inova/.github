@@ -22,7 +22,7 @@ AI-driven pipeline for visual arts creation and media processing.
 - Focus: Generative AI workflows, reproducible creative pipelines
 - [Repository →](link)
 
-### 🍳 CookBook
+### 🍳 CookGraph
 **Knowledge Graph for Culinary Data Engineering**
 
 Ontology-driven recipe database demonstrating data engineering across domains.
