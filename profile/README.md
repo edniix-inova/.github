@@ -7,34 +7,36 @@ We develop open-source frameworks demonstrating practical integration thinking a
 ## Current Projects
 
 ### 🚗 FOrECaSt
-**Fleet Oriented Enhancement for Controls and Strategies**
+**Data-driven system intelligence for connected environments**
 
-Framework for simulating, modeling, and validating strategies in connected vehicle systems.
+An interactive platform that combines generative AI with transparent workflows — designed to support artists, creatives, and learners in understanding what happens behind the scenes of modern AI pipelines.
+
+Rekrea turns experimentation into learning, lowering the barrier to adoption while building technical intuition through hands-on creation.
 - Technologies: Python, SUMO, Neo4j, RabbitMQ
 - Focus: IoT system coordination, data-driven control
 - [Repository →](link)
 
 ### 🎨 CreMaPro-AI  
-**Creative Media Production powered by AI**
+**Applied AI playground for creative systems literacy**
 
-AI-driven pipeline for visual arts creation and media processing.
+An interactive platform that combines generative AI with transparent workflows — designed to support artists, creatives, and learners in understanding what happens behind the scenes of modern AI pipelines.
+
+Rekrea turns experimentation into learning, lowering the barrier to adoption while building technical intuition through hands-on creation.
 - Technologies: Python, Stable Diffusion, ControlNet, MLOps
 - Focus: Generative AI workflows, reproducible creative pipelines
 - [Repository →](link)
 
 ### 🍳 CookGraph
-**Knowledge Graph for Culinary Data Engineering**
+**Structured culinary knowledge architecture**
 
-Ontology-driven recipe database demonstrating data engineering across domains.
+An applied knowledge-graph initiative that formalizes recipes, techniques, ingredient, appliances and any other relationships into structured data — transforming culinary creativity into an optimized, queryable system.
+
+Cookgraf explores how engineering principles and data modeling can bring order, reuse, and insight to an inherently creative domain.
 - Technologies: Python, Neo4j, JSON-LD, Graph databases
 - Focus: Ontology design, knowledge graphs, data modeling
 - [Repository →](link)
 
 ---
-
-**Why these projects?**
-
-They demonstrate a unified approach: taking complex, domain-specific problems and solving them through systems integration—not isolated technology implementations.
 
 **Built by:** [Eduardo Perez Guzman](https://www.linkedin.com/in/eduardo-perez-guzman-55lal/)  
 **Contact:** [eduardo.research.main@gmail.com]
