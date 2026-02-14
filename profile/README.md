@@ -7,11 +7,11 @@ We develop open-source frameworks demonstrating practical integration thinking a
 ## Current Projects
 
 ### 🚗 FOrECaSt
-**Data-driven system intelligence for connected environments**
+**Geospatial data-driven system intelligence for connected environments**
 
-An interactive platform that combines generative AI with transparent workflows — designed to support artists, creatives, and learners in understanding what happens behind the scenes of modern AI pipelines.
+A knowledge-graph–enabled analytics platform designed to structure, contextualize, and extract insight from complex connected systems.
 
-Rekrea turns experimentation into learning, lowering the barrier to adoption while building technical intuition through hands-on creation.
+Konexys models relationships across devices, protocols, and operational constraints to enable decision support — moving from simulation to explainable, data-driven system intelligence.
 - Technologies: Python, SUMO, Neo4j, RabbitMQ
 - Focus: IoT system coordination, data-driven control
 - [Repository →](link)
