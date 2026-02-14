@@ -6,7 +6,7 @@ We develop open-source frameworks demonstrating practical integration thinking a
 
 ## Current Projects
 
-### 🚗 FOrECaSt
+### 🌐 FOrECaSt
 **Geospatial data-driven system intelligence for connected environments**
 
 A knowledge-graph–enabled analytics platform designed to structure, contextualize, and extract insight from complex connected systems.
