@@ -6,7 +6,7 @@ We develop open-source frameworks demonstrating practical integration thinking a
 
 ## Current Projects
 
-### 🌐 FOrECaSt
+### 🌐 Konexys
 **Geospatial data-driven system intelligence for connected environments**
 
 A knowledge-graph–enabled analytics platform designed to structure, contextualize, and extract insight from complex connected systems.
@@ -16,7 +16,7 @@ Konexys models relationships across devices, protocols, and operational constrai
 - Focus: IoT system coordination, data-driven control
 - [Repository →](link)
 
-### 🎨 CreMaPro-AI  
+### 🎨 Rekrea 
 **Applied AI playground for creative systems literacy**
 
 An interactive platform that combines generative AI with transparent workflows — designed to support artists, creatives, and learners in understanding what happens behind the scenes of modern AI pipelines.
@@ -26,7 +26,7 @@ Rekrea turns experimentation into learning, lowering the barrier to adoption whi
 - Focus: Generative AI workflows, reproducible creative pipelines
 - [Repository →](link)
 
-### 🍳 CookGraph
+### 🍳 Cookgraf
 **Structured culinary knowledge architecture**
 
 An applied knowledge-graph initiative that formalizes recipes, techniques, ingredient, appliances and any other relationships into structured data — transforming culinary creativity into an optimized, queryable system.
