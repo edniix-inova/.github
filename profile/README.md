@@ -14,7 +14,7 @@ A knowledge-graph–enabled analytics platform designed to structure, contextual
 Konexys models relationships across devices, protocols, and operational constraints to enable decision support — moving from simulation to explainable, data-driven system intelligence.
 - Technologies: Python, SUMO, Neo4j, RabbitMQ
 - Focus: IoT system coordination, data-driven control
-- [Repository →](link)
+- [Repository →](https://github.com/edniix-inova/konexys-wip)
 
 ### 🎨 Rekrea 
 **Applied AI playground for creative systems literacy**
