@@ -24,7 +24,7 @@ An interactive platform that combines generative AI with transparent workflows �
 Rekrea turns experimentation into learning, lowering the barrier to adoption while building technical intuition through hands-on creation.
 - Technologies: Python, Stable Diffusion, ControlNet, MLOps
 - Focus: Generative AI workflows, reproducible creative pipelines
-- [Repository →]([link](https://github.com/edniix-inova/rekrea))
+- [Repository →](https://github.com/edniix-inova/rekrea)
 
 ### 🍳 Cookgraf
 **Structured culinary knowledge architecture**
