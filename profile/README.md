@@ -39,5 +39,5 @@ Cookgraf explores how engineering principles and data modeling can bring order, 
 ---
 
 **Built by:** [Eduardo Perez Guzman](https://github.com/edumaindev)
-
+**Contact:** (mailto:eduardo.perez@edniix.com)
 **Contact:** [LinkedIn](https://www.linkedin.com/in/eduardo-perez-guzman-55lal/)
