@@ -1,8 +1,8 @@
-# Edniix Inova
+# Edniix Inova 
 
 **Innovation through Systems Integration**
 
-We develop open-source frameworks demonstrating practical integration thinking across connected systems, AI/ML, and data engineering.
+We develop open-source frameworks demonstrating practical integration thinking across connected systems, AI/ML, and data engineering. [Edniix Inova page](https://edniix.com)
 
 ## Current Projects
 
@@ -38,6 +38,6 @@ Cookgraf explores how engineering principles and data modeling can bring order, 
 
 ---
 
-**Built by:** [Eduardo Perez Guzman](https://github.com/edumaindev)  
+**Built by:** [Eduardo P](https://github.com/edumaindev)  
 **Profile:** [LinkedIn](https://www.linkedin.com/in/eduardo-perez-guzman-55lal/)  
 **Contact:** mailto:eduardo.perez@edniix.com
