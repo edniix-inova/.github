@@ -34,7 +34,7 @@ An applied knowledge-graph initiative that formalizes recipes, techniques, ingre
 Cookgraf explores how engineering principles and data modeling can bring order, reuse, and insight to an inherently creative domain.
 - Technologies: Python, Neo4j, JSON-LD, Graph databases
 - Focus: Ontology design, knowledge graphs, data modeling
-- [Repository →](link)
+- [Repository →](https://github.com/edniix-inova/cookgraf)
 
 ---
 
